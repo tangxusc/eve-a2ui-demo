@@ -1,0 +1,11 @@
+node_modules
+.next
+.eve
+.output
+.vercel
+.env*.local
+*.tsbuildinfo
+test-results
+playwright-report
+
+.workbuddy
